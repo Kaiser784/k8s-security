@@ -4,7 +4,7 @@
 </a></br>
 
 # Modified Kubernetes (K8s) Security
-A curated list for Kubernetes (K8s) Security resources such as articles, books, tools, talks and videos which are modified or added later according to my understanding and use case from awesome k8s security .  
+A curated list for Kubernetes (K8s) Security resources such as articles, books, tools and talks which are modified or added later according to my understanding and use case from awesome k8s security. I extremely hate videos so there'll only be blogs and articles and at most conference videos.  
 
 # Disclaimer
 All the Resources are in English to reduce cluster for me if you want other sources you can go to the original fork. All the content in this list is public and free.
@@ -13,8 +13,6 @@ All the Resources are in English to reduce cluster for me if you want other sour
 These are the main topics of this Awesome Kubernetes (K8s) Security List. Everything related to the Security of Kubernetes (and its components such as CoreDNS, etcd) either for learning, breaking or defending it, will be added down below. If you have any other good links or recommendations, feel free to submit a PR!
 
 - [💊 The Basics](#the-basics)
-- [💼 Official Pages](#official-pages)
-- [📹 Talks and Videos](#talks-and-videos)
 - [📰 Blogs and Articles](#blogs-and-articles)
 - [🗒️ Books](#books)
 - [📆 Certifications](#certifications)
@@ -26,10 +24,6 @@ These are the main topics of this Awesome Kubernetes (K8s) Security List. Everyt
 
 ## The Basics
 To understand about Kubernetes Security you first need to understand the basics of how Kubernetes works and all the components involved. Here's some links and materials to help you with that journey:
-
-[Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
-
-[Kubernetes Concepts Explained in 9 minutes!](https://www.youtube.com/watch?v=QJ4fODH6DXI)
 
 [Kubernetes 101](https://www.aquasec.com/resources/kubernetes-101/)
 
@@ -48,58 +42,6 @@ To understand about Kubernetes Security you first need to understand the basics 
 [Gist of Kubernetes Resources](https://gist.github.com/dims/bb219a4a8d9cb88dc2a2dc1f11a537c6)
 
 [Kubernetes Security Checklist and Requirements](https://github.com/Vinum-Security/kubernetes-security-checklist)
-
-## Official Pages
-
-[Kubernetes.io](https://kubernetes.io/)
-
-[Kubernetes GitHub](https://github.com/kubernetes/kubernetes)
-
-[Kubernetes Security and Disclosure Information](https://kubernetes.io/docs/reference/issues-security/security/)
-
-[Cloud Native Security](https://kubernetes.io/docs/concepts/security/overview/)
-
-[Pod Security Standards](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
-
-[CNCF STAG - Security Technical Advisory Group](https://github.com/cncf/tag-security)
-
-[CNCF STAG Meeting Notes](https://docs.google.com/document/d/170y5biX9k95hYRwprITprG6Mc9xD5glVn-4mB2Jmi2g/edit)
-
-[CNCF STAG Mailing List](https://lists.cncf.io/g/cncf-tag-security)
-
-[Kubernetes SIG Security](https://github.com/kubernetes/community/tree/master/sig-security)
-
-[Kubernetes SIG Security Meeting Notes](https://docs.google.com/document/d/1GgmmNYN88IZ2v2NBiO3gdU8Riomm0upge_XNVxEYXp0/edit)
-
-[Kubernetes SIG Auth (Authorization, Authentication, and Cluster Security Policy)](https://github.com/kubernetes/community/tree/master/sig-auth)
-
-[Kubernetes Security Audit 2019 Results](https://github.com/kubernetes/community/tree/master/sig-security/security-audit-2019)
-
-[Kubernetes Security Audit 2021 RFP](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2021/RFP.md)
-
-## Talks and Videos
-
-[Compromising Kubernetes Cluster by Exploiting RBAC Permissions - Eviatar Gerzi, CyberArk (RSA 2020)](https://www.youtube.com/watch?v=1LMo0CftVC4)
-
-[Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO](https://www.youtube.com/watch?v=90kZRyPcRZw)
-
-[Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO  (Extended Version)](https://vimeo.com/245778144/4d1d597c5e)
-
-[Advanced Persistence Threats: The Future of Kubernetes Attacks (RSAC 2020)](https://www.youtube.com/watch?v=CH7S5rE3j8w)
-
-[Kubernetes Security Best Practices - Ian Lewis, Google](https://www.youtube.com/watch?v=wqsUfvRyYpw)
-
-[Securing Kubernetes Secrets (Cloud Next '19)](https://www.youtube.com/watch?v=DNKcRUyz4Hw)
-
-[Jay Beale - Attacking and Defending Kubernetes - DEF CON 27 Packet Hacking Village](https://www.youtube.com/watch?v=2fmAuR3rnBo)
-
-[The State of Kubernetes Security - Liz Rice](https://www.youtube.com/watch?v=_l56oUxHSio)
-
-[DIY Pen-Testing for Your Kubernetes Cluster - Liz Rice, Aqua Security](https://www.youtube.com/watch?v=fVqCAUJiIn0)
-
-[Kubernetes Security 101: Best Practices to Secure your Cluster](https://www.youtube.com/watch?v=d-pIWfDaZK8&t=3408s)
-
-[Rory's McCune **@raesene** Kubernetes Security Lab | Rawkode Live workshop](https://youtu.be/Srd1qqxDReA)
 
 ## Blogs and Articles
 
@@ -372,9 +314,3 @@ To understand about Kubernetes Security you first need to understand the basics 
 [EKS](https://aws.amazon.com/eks/)
 
 [GKE](https://cloud.google.com/kubernetes-engine/)
-
-## Honk the Planet!
-
-<br>
-    <img src="https://github.com/magnologan/awesome-k8s-security/blob/master/honk.gif">
-<br>
