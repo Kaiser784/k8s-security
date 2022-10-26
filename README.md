@@ -10,7 +10,6 @@ A curated list for Kubernetes (K8s) Security resources such as articles, books, 
 All the Resources are in English to reduce cluster for me if you want other sources you can go to the original fork. All the content in this list is public and free.
 
 # Contents
-These are the main topics of this Awesome Kubernetes (K8s) Security List. Everything related to the Security of Kubernetes (and its components such as CoreDNS, etcd) either for learning, breaking or defending it, will be added down below. If you have any other good links or recommendations, feel free to submit a PR!
 
 - [💊 The Basics](#the-basics)
 - [📰 Blogs and Articles](#blogs-and-articles)
